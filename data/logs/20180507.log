@@ -1,0 +1,360 @@
+2018-05-07 10:11:11 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050621001004230542302290',
+  'subject' => '餐饮20180506692057986438',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-06 09:47:12',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050609405300001229483221',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-05-07 10:11:10',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.10',
+  'gmt_payment' => '2018-05-06 09:47:13',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.10',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '6a918342c319e3d5161dc41a785e484hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'bd176dd2cd9a50bd374b76c2fcfbbc42',
+  'query_type' => 'notify',
+)
+
+2018-05-07 17:37:33 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1525685852</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=3]]></EventKey>
+<MenuId>813904688</MenuId>
+</xml>
+
+2018-05-07 17:37:33 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1525685852',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=3',
+    'menuid' => '813904688',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1525685852',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=3',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-07 17:37:33 response :
+------------
+
+2018-05-07 17:37:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1525685876</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=3]]></EventKey>
+<MenuId>813904688</MenuId>
+</xml>
+
+2018-05-07 17:37:56 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1525685876',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=3',
+    'menuid' => '813904688',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1525685876',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=3',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-07 17:37:56 response :
+------------
+
+2018-05-07 21:32:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1525699940</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>813904688</MenuId>
+</xml>
+
+2018-05-07 21:32:20 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1525699940',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '813904688',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1525699940',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-07 21:32:20 response :
+------------
+
+2018-05-07 21:35:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1525700138</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>813904688</MenuId>
+</xml>
+
+2018-05-07 21:35:38 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1525700138',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '813904688',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1525700138',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-07 21:35:38 response :
+------------
+
+2018-05-07 21:58:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1525701483</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=3]]></EventKey>
+<MenuId>813904688</MenuId>
+</xml>
+
+2018-05-07 21:58:03 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1525701483',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=3',
+    'menuid' => '813904688',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1525701483',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=3',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-07 21:58:03 response :
+------------
+
+2018-05-07 22:16:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1525702565</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>813904688</MenuId>
+</xml>
+
+2018-05-07 22:16:05 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1525702565',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '813904688',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1525702565',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-07 22:16:05 response :
+------------
+
+2018-05-07 22:29:13 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050721001004230547810824',
+  'subject' => '会员余额充值',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-07 22:29:11',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050722274900000586086632',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-05-07 22:29:13',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '1.00',
+  'gmt_payment' => '2018-05-07 22:29:13',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '1.00',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'ab98f77a1a5e81507392e6915e32a5chs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '7c888fb7865fb845a7cd608e408cc8a9',
+  'query_type' => 'notify',
+)
+
+2018-05-07 22:29:16 pay-alipay :
+------------
+String:
+array (
+  'body' => '2',
+  'is_success' => 'T',
+  'notify_id' => 'RqPnCoPT3K9%2Fvwbh3Ih0HpJDHraXr47HC%2BMcWwwGQumkOK7zNsPSTsoS5LfaS0eBQJve',
+  'notify_time' => '2018-05-07 22:29:13',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '2018050722274900000586086632',
+  'payment_type' => '1',
+  'seller_id' => '2088621957819369',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'subject' => '会员余额充值',
+  'total_fee' => '1.00',
+  'trade_no' => '2018050721001004230547810824',
+  'trade_status' => 'TRADE_SUCCESS',
+  'sign' => 'e9283b23fd01116badb3d6fb8c4db545',
+  'sign_type' => 'MD5',
+  'query_type' => 'return',
+)
+
+2018-05-07 22:36:22 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1525703781</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=3]]></EventKey>
+<MenuId>813904688</MenuId>
+</xml>
+
+2018-05-07 22:36:22 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1525703781',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=3',
+    'menuid' => '813904688',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1525703781',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=3',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-07 22:36:22 response :
+------------
+

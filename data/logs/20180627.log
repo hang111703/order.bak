@@ -1,0 +1,111 @@
+2018-06-27 10:58:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1530068325</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>343531187832242178</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-06-27 10:58:46 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1530068325',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '343531187832242178',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530068325',
+    'type' => 'event',
+  ),
+)
+
+2018-06-27 10:58:46 response :
+------------
+
+2018-06-27 10:58:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0oF5n7OLu49EpAwdouhzRkU]]></FromUserName>
+<CreateTime>1530068335</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>343531359161155585</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-06-27 10:58:56 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'createtime' => '1530068335',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '343531359161155585',
+    'status' => 'success',
+    'from' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530068335',
+    'type' => 'event',
+  ),
+)
+
+2018-06-27 10:58:56 response :
+------------
+
+2018-06-27 10:59:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1530068379</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>343532094556880902</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-06-27 10:59:39 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1530068379',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '343532094556880902',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530068379',
+    'type' => 'event',
+  ),
+)
+
+2018-06-27 10:59:39 response :
+------------
+

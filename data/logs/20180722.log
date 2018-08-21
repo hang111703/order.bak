@@ -1,0 +1,157 @@
+2018-07-22 10:39:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1532227154</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>813904688</MenuId>
+</xml>
+
+2018-07-22 10:39:14 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1532227154',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '813904688',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1532227154',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-07-22 10:39:14 response :
+------------
+
+2018-07-22 10:42:53 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1532227373</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>379753998439301123</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-22 10:42:53 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1532227373',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '379753998439301123',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1532227373',
+    'type' => 'event',
+  ),
+)
+
+2018-07-22 10:42:53 response :
+------------
+
+2018-07-22 10:55:24 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0oF5n7OLu49EpAwdouhzRkU]]></FromUserName>
+<CreateTime>1532228123</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=2]]></EventKey>
+<MenuId>813904688</MenuId>
+</xml>
+
+2018-07-22 10:55:24 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'createtime' => '1532228123',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=2',
+    'menuid' => '813904688',
+    'from' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1532228123',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=2',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-07-22 10:55:24 response :
+------------
+
+2018-07-22 10:56:09 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0oF5n7OLu49EpAwdouhzRkU]]></FromUserName>
+<CreateTime>1532228169</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>813904688</MenuId>
+</xml>
+
+2018-07-22 10:56:09 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'createtime' => '1532228169',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '813904688',
+    'from' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1532228169',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-07-22 10:56:09 response :
+------------
+

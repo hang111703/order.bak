@@ -1,0 +1,305 @@
+2018-06-02 15:36:58 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1527925017</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>307572452651843588</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-06-02 15:36:58 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1527925017',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '307572452651843588',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1527925017',
+    'type' => 'event',
+  ),
+)
+
+2018-06-02 15:36:58 response :
+------------
+
+2018-06-02 20:56:48 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1527944208</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>813904688</MenuId>
+</xml>
+
+2018-06-02 20:56:48 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1527944208',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '813904688',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1527944208',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-06-02 20:56:48 response :
+------------
+
+2018-06-02 21:00:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1527944418</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>813904688</MenuId>
+</xml>
+
+2018-06-02 21:00:19 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1527944418',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '813904688',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1527944418',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-06-02 21:00:19 response :
+------------
+
+2018-06-02 21:01:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1527944480</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>813904688</MenuId>
+</xml>
+
+2018-06-02 21:01:20 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1527944480',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '813904688',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1527944480',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-06-02 21:01:20 response :
+------------
+
+2018-06-02 22:09:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1527948571</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>307967617593917440</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-06-02 22:09:31 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1527948571',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '307967617593917440',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1527948571',
+    'type' => 'event',
+  ),
+)
+
+2018-06-02 22:09:31 response :
+------------
+
+2018-06-02 22:09:52 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1527948592</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>307967961359073281</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-06-02 22:09:52 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1527948592',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '307967961359073281',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1527948592',
+    'type' => 'event',
+  ),
+)
+
+2018-06-02 22:09:52 response :
+------------
+
+2018-06-02 22:10:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1527948625</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>307968526130495488</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-06-02 22:10:25 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1527948625',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '307968526130495488',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1527948625',
+    'type' => 'event',
+  ),
+)
+
+2018-06-02 22:10:25 response :
+------------
+
+2018-06-02 22:15:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1527948927</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>307973583202828288</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-06-02 22:15:27 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1527948927',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '307973583202828288',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1527948927',
+    'type' => 'event',
+  ),
+)
+
+2018-06-02 22:15:27 response :
+------------
+

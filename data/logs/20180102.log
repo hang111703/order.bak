@@ -1,0 +1,508 @@
+2018-01-02 22:54:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1514904842</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2018-01-02 22:54:03 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1514904842',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1514904842',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-02 22:54:03 response :
+------------
+
+2018-01-02 23:07:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1514905640</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2018-01-02 23:07:20 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1514905640',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1514905640',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-02 23:07:20 response :
+------------
+
+2018-01-02 23:07:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1514905651</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-01-02 23:09:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1514905745</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-01-02 23:09:05 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1514905745',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1514905745',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+    'content' => '明达',
+  ),
+  'module' => 'reply',
+  'rule' => '22',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '64',
+    'rid' => '22',
+    'uniacid' => '2',
+    'module' => 'reply',
+    'content' => '明达',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+      0 => 'basic',
+      1 => 'news',
+    ),
+  ),
+  'reply_type' => 
+  array (
+    0 => 'basic',
+    1 => 'news',
+  ),
+)
+
+2018-01-02 23:09:05 response :
+------------
+Array:
+FromUserName : gh_7bcd94754b84 ;
+ToUserName : o01Wu01-zSLzut3cB22KEbJ3JxzY ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-02 23:09:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1514905770</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5]]></EventKey>
+<MenuId>830669761</MenuId>
+</xml>
+
+2018-01-02 23:09:31 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1514905770',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5',
+    'menuid' => '830669761',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1514905770',
+    'type' => 'text',
+    'content' => 'http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-02 23:09:31 response :
+------------
+
+2018-01-02 23:31:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1514907115</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5]]></EventKey>
+<MenuId>830669761</MenuId>
+</xml>
+
+2018-01-02 23:31:55 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1514907115',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5',
+    'menuid' => '830669761',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1514907115',
+    'type' => 'text',
+    'content' => 'http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-02 23:31:55 response :
+------------
+
+2018-01-02 23:32:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1514907141</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-01-02 23:32:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1514907169</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-01-02 23:32:49 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1514907169',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1514907169',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+    'content' => '明达',
+  ),
+  'module' => 'reply',
+  'rule' => '22',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '64',
+    'rid' => '22',
+    'uniacid' => '2',
+    'module' => 'reply',
+    'content' => '明达',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+      0 => 'basic',
+      1 => 'news',
+    ),
+  ),
+  'reply_type' => 
+  array (
+    0 => 'basic',
+    1 => 'news',
+  ),
+)
+
+2018-01-02 23:32:49 response :
+------------
+Array:
+FromUserName : gh_7bcd94754b84 ;
+ToUserName : o01Wu01-zSLzut3cB22KEbJ3JxzY ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-02 23:32:53 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1514907172</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5]]></EventKey>
+<MenuId>830669761</MenuId>
+</xml>
+
+2018-01-02 23:32:53 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1514907172',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5',
+    'menuid' => '830669761',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1514907172',
+    'type' => 'text',
+    'content' => 'http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-02 23:32:53 response :
+------------
+
+2018-01-02 23:54:02 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018010221001004230272198133',
+  'subject' => '餐饮20180102083740747551',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2018-01-02 23:54:00',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018010223530000001218588448',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-01-02 23:54:02',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.30',
+  'gmt_payment' => '2018-01-02 23:54:01',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.30',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '484efc704f3825d90b750d344d976f0hry',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '4eb8be08dcd58dc304fc78a96684c590',
+  'query_type' => 'notify',
+)
+
+2018-01-02 23:54:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1514908442</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>89190559847071744</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-01-02 23:54:02 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1514908442',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '89190559847071744',
+    'status' => 'success',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1514908442',
+    'type' => 'event',
+  ),
+)
+
+2018-01-02 23:54:02 response :
+------------
+
+2018-01-02 23:54:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu09x8WFY1ZBV-HAf-R-a3ytI]]></FromUserName>
+<CreateTime>1514908444</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>89190584023121920</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-01-02 23:54:04 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu09x8WFY1ZBV-HAf-R-a3ytI',
+    'createtime' => '1514908444',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '89190584023121920',
+    'status' => 'success',
+    'from' => 'o01Wu09x8WFY1ZBV-HAf-R-a3ytI',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1514908444',
+    'type' => 'event',
+  ),
+)
+
+2018-01-02 23:54:04 response :
+------------
+
+2018-01-02 23:54:08 pay-alipay :
+------------
+String:
+array (
+  'body' => '2',
+  'is_success' => 'T',
+  'notify_id' => 'RqPnCoPT3K9%2Fvwbh3Ih31xo6Ty6kqOFZxBptBFfVV4WgLKGmp%2B%2BQ0%2BzRL1KQ305jXW%2Bp',
+  'notify_time' => '2018-01-02 23:54:02',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '2018010223530000001218588448',
+  'payment_type' => '1',
+  'seller_id' => '2088621957819369',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'subject' => '餐饮20180102083740747551',
+  'total_fee' => '0.30',
+  'trade_no' => '2018010221001004230272198133',
+  'trade_status' => 'TRADE_SUCCESS',
+  'sign' => 'cb298949b25fd1bf6bf0113205c2fa0e',
+  'sign_type' => 'MD5',
+  'query_type' => 'return',
+)
+
+2018-01-02 23:58:18 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018010221001004230272198133',
+  'subject' => '餐饮20180102083740747551',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2018-01-02 23:54:00',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018010223530000001218588448',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-01-02 23:58:17',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.30',
+  'gmt_payment' => '2018-01-02 23:54:01',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.30',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '484efc704f3825d90b750d344d976f0hry',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '73df8c6afc23be007c2342354de41013',
+  'query_type' => 'notify',
+)
+

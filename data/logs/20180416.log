@@ -1,0 +1,458 @@
+2018-04-16 12:42:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1523853752</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-04-16 12:42:32 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1523853752',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1523853752',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+    'content' => '明达',
+  ),
+  'module' => 'reply',
+  'rule' => '22',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '64',
+    'rid' => '22',
+    'uniacid' => '2',
+    'module' => 'reply',
+    'content' => '明达',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+      0 => 'basic',
+      1 => 'news',
+    ),
+  ),
+  'reply_type' => 
+  array (
+    0 => 'basic',
+    1 => 'news',
+  ),
+)
+
+2018-04-16 12:42:32 response :
+------------
+Array:
+FromUserName : gh_6ace08fd00cf ;
+ToUserName : oIP0X0nRmf4w6LhtWw_cwGj7NlyA ;
+MsgType : text ;
+Content : 欢迎来到明达订餐平台。 ;
+
+2018-04-16 12:42:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1523853756</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=5]]></EventKey>
+<MenuId>813861082</MenuId>
+</xml>
+
+2018-04-16 12:42:36 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1523853756',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=5',
+    'menuid' => '813861082',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1523853756',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=5',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-16 12:42:36 response :
+------------
+
+2018-04-16 12:43:58 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1523853838</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-04-16 12:44:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1523853865</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-04-16 12:44:25 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1523853865',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1523853865',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+    'content' => '明达',
+  ),
+  'module' => 'reply',
+  'rule' => '22',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '64',
+    'rid' => '22',
+    'uniacid' => '2',
+    'module' => 'reply',
+    'content' => '明达',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+      0 => 'basic',
+      1 => 'news',
+    ),
+  ),
+  'reply_type' => 
+  array (
+    0 => 'basic',
+    1 => 'news',
+  ),
+)
+
+2018-04-16 12:44:25 response :
+------------
+Array:
+FromUserName : gh_6ace08fd00cf ;
+ToUserName : oIP0X0nRmf4w6LhtWw_cwGj7NlyA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-04-16 12:44:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1523853875</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=home&t=2]]></EventKey>
+<MenuId>813861176</MenuId>
+</xml>
+
+2018-04-16 12:44:35 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1523853875',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=home&t=2',
+    'menuid' => '813861176',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1523853875',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=home&t=2',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-16 12:44:35 response :
+------------
+
+2018-04-16 12:45:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1523853928</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>813861225</MenuId>
+</xml>
+
+2018-04-16 12:45:29 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1523853928',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '813861225',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1523853928',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-16 12:45:29 response :
+------------
+
+2018-04-16 19:59:05 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041621001004230570755537',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-16 19:59:03',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804161523879920',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-04-16 19:59:04',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-16 19:59:04',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'cc2e7750f525eb5c51f3185867d44d6hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '7553546604875d93161a5ce237ca71ae',
+  'query_type' => 'notify',
+)
+
+2018-04-16 19:59:09 pay-alipay :
+------------
+String:
+array (
+  'body' => '2',
+  'is_success' => 'T',
+  'notify_id' => 'RqPnCoPT3K9%2Fvwbh3Ih0GL5VciDHkuClar4Amzu43SPma5HAcp0TIrGZ7JigGtta3Wz6',
+  'notify_time' => '2018-04-16 19:59:05',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '201804161523879920',
+  'payment_type' => '1',
+  'seller_id' => '2088621957819369',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'subject' => '测试支付接口',
+  'total_fee' => '0.01',
+  'trade_no' => '2018041621001004230570755537',
+  'trade_status' => 'TRADE_SUCCESS',
+  'sign' => '74601051f8e51cd4de491e801b36841d',
+  'sign_type' => 'MD5',
+  'query_type' => 'return',
+)
+
+2018-04-16 20:03:39 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041621001004230570755537',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-16 19:59:03',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804161523879920',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-04-16 20:03:38',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-16 19:59:04',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'cc2e7750f525eb5c51f3185867d44d6hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'a13a6ee946ffdaf7742df297e93f203c',
+  'query_type' => 'notify',
+)
+
+2018-04-16 20:13:32 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041621001004230570755537',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-16 19:59:03',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804161523879920',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-04-16 20:13:31',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-16 19:59:04',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'cc2e7750f525eb5c51f3185867d44d6hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '4a49126af43397274a8d98349ae706bb',
+  'query_type' => 'notify',
+)
+
+2018-04-16 20:23:10 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041621001004230570755537',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-16 19:59:03',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804161523879920',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-04-16 20:23:10',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-16 19:59:04',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'cc2e7750f525eb5c51f3185867d44d6hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '29770e1ca60ee6b4585d6c90dcd2383f',
+  'query_type' => 'notify',
+)
+
+2018-04-16 21:23:41 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041621001004230570755537',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-16 19:59:03',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804161523879920',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-04-16 21:23:40',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-16 19:59:04',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'cc2e7750f525eb5c51f3185867d44d6hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'fa0bb6b1d1e98ad382630f7055ce1f9a',
+  'query_type' => 'notify',
+)
+
+2018-04-16 23:23:34 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041621001004230570755537',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-16 19:59:03',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804161523879920',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-04-16 23:23:34',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-16 19:59:04',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'cc2e7750f525eb5c51f3185867d44d6hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '270574687e5518398c35d2c3ba513093',
+  'query_type' => 'notify',
+)
+

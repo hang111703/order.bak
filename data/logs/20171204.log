@@ -1,0 +1,40 @@
+2017-12-04 23:22:45 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_4e05e01d727f]]></ToUserName>
+<FromUserName><![CDATA[oYpmvwhJ3LOa37srCPrDNbSFgk_Y]]></FromUserName>
+<CreateTime>1512400965</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=3&c=entry&eid=1]]></EventKey>
+<MenuId>424145312</MenuId>
+</xml>
+
+2017-12-04 23:22:45 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_4e05e01d727f',
+    'fromusername' => 'oYpmvwhJ3LOa37srCPrDNbSFgk_Y',
+    'createtime' => '1512400965',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=3&c=entry&eid=1',
+    'menuid' => '424145312',
+    'from' => 'oYpmvwhJ3LOa37srCPrDNbSFgk_Y',
+    'to' => 'gh_4e05e01d727f',
+    'time' => '1512400965',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=3&c=entry&eid=1',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-04 23:22:45 response :
+------------
+

@@ -1,0 +1,38 @@
+2018-03-24 10:47:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1521859957</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://t.cn/RnKsclI ，这个是支付宝红包的网址，你试试，每天可以领1个红包。]]></Content>
+<MsgId>6536338745243640263</MsgId>
+</xml>
+
+2018-03-24 10:47:42 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1521859957',
+    'msgtype' => 'text',
+    'content' => 'http://t.cn/RnKsclI ，这个是支付宝红包的网址，你试试，每天可以领1个红包。',
+    'msgid' => '6536338745243640263',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1521859957',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-03-24 10:47:42 response :
+------------
+

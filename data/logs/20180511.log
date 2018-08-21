@@ -1,0 +1,528 @@
+2018-05-11 09:45:45 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1526003145</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[user_view_card]]></Event>
+<CardId><![CDATA[pIP0X0npSX_PNIIealuUkIzK4-nQ]]></CardId>
+<UserCardCode><![CDATA[648315928152]]></UserCardCode>
+<OuterStr><![CDATA[]]></OuterStr>
+</xml>
+
+2018-05-11 09:45:45 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1526003145</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[user_get_card]]></Event>
+<CardId><![CDATA[pIP0X0npSX_PNIIealuUkIzK4-nQ]]></CardId>
+<IsGiveByFriend>0</IsGiveByFriend>
+<UserCardCode><![CDATA[648315928152]]></UserCardCode>
+<FriendUserName><![CDATA[]]></FriendUserName>
+<OuterId>0</OuterId>
+<OldUserCardCode><![CDATA[]]></OldUserCardCode>
+<IsRestoreMemberCard>0</IsRestoreMemberCard>
+<IsRecommendByFriend>0</IsRecommendByFriend>
+<SourceScene><![CDATA[SOURCE_SCENE_MP_PREVIEW]]></SourceScene>
+<UnionId><![CDATA[oAAAAAH2tf6sT4AD9qetZsJ6eXNA]]></UnionId>
+</xml>
+
+2018-05-11 09:45:45 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1526003145',
+    'msgtype' => 'event',
+    'event' => 'user_view_card',
+    'cardid' => 'pIP0X0npSX_PNIIealuUkIzK4-nQ',
+    'usercardcode' => '648315928152',
+    'outerstr' => '',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1526003145',
+    'type' => 'event',
+  ),
+)
+
+2018-05-11 09:45:45 response :
+------------
+
+2018-05-11 09:45:45 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1526003145',
+    'msgtype' => 'event',
+    'event' => 'user_get_card',
+    'cardid' => 'pIP0X0npSX_PNIIealuUkIzK4-nQ',
+    'isgivebyfriend' => '0',
+    'usercardcode' => '648315928152',
+    'friendusername' => '',
+    'outerid' => '0',
+    'oldusercardcode' => '',
+    'isrestoremembercard' => '0',
+    'isrecommendbyfriend' => '0',
+    'sourcescene' => 'SOURCE_SCENE_MP_PREVIEW',
+    'unionid' => 'oAAAAAH2tf6sT4AD9qetZsJ6eXNA',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1526003145',
+    'type' => 'coupon',
+  ),
+)
+
+2018-05-11 09:45:45 response :
+------------
+
+2018-05-11 09:46:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1526003179</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[user_enter_session_from_card]]></Event>
+<CardId><![CDATA[pIP0X0npSX_PNIIealuUkIzK4-nQ]]></CardId>
+<UserCardCode><![CDATA[648315928152]]></UserCardCode>
+</xml>
+
+2018-05-11 09:46:19 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1526003179',
+    'msgtype' => 'event',
+    'event' => 'user_enter_session_from_card',
+    'cardid' => 'pIP0X0npSX_PNIIealuUkIzK4-nQ',
+    'usercardcode' => '648315928152',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1526003179',
+    'type' => 'event',
+  ),
+)
+
+2018-05-11 09:46:19 response :
+------------
+
+2018-05-11 09:46:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1526003185</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[user_view_card]]></Event>
+<CardId><![CDATA[pIP0X0npSX_PNIIealuUkIzK4-nQ]]></CardId>
+<UserCardCode><![CDATA[648315928152]]></UserCardCode>
+<OuterStr><![CDATA[]]></OuterStr>
+</xml>
+
+2018-05-11 09:46:25 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1526003185',
+    'msgtype' => 'event',
+    'event' => 'user_view_card',
+    'cardid' => 'pIP0X0npSX_PNIIealuUkIzK4-nQ',
+    'usercardcode' => '648315928152',
+    'outerstr' => '',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1526003185',
+    'type' => 'event',
+  ),
+)
+
+2018-05-11 09:46:25 response :
+------------
+
+2018-05-11 09:47:01 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1526003221</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[user_enter_session_from_card]]></Event>
+<CardId><![CDATA[pIP0X0npSX_PNIIealuUkIzK4-nQ]]></CardId>
+<UserCardCode><![CDATA[648315928152]]></UserCardCode>
+</xml>
+
+2018-05-11 09:47:01 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1526003221',
+    'msgtype' => 'event',
+    'event' => 'user_enter_session_from_card',
+    'cardid' => 'pIP0X0npSX_PNIIealuUkIzK4-nQ',
+    'usercardcode' => '648315928152',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1526003221',
+    'type' => 'event',
+  ),
+)
+
+2018-05-11 09:47:01 response :
+------------
+
+2018-05-11 09:47:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1526003225</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[user_view_card]]></Event>
+<CardId><![CDATA[pIP0X0npSX_PNIIealuUkIzK4-nQ]]></CardId>
+<UserCardCode><![CDATA[648315928152]]></UserCardCode>
+<OuterStr><![CDATA[]]></OuterStr>
+</xml>
+
+2018-05-11 09:47:05 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1526003225',
+    'msgtype' => 'event',
+    'event' => 'user_view_card',
+    'cardid' => 'pIP0X0npSX_PNIIealuUkIzK4-nQ',
+    'usercardcode' => '648315928152',
+    'outerstr' => '',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1526003225',
+    'type' => 'event',
+  ),
+)
+
+2018-05-11 09:47:05 response :
+------------
+
+2018-05-11 09:47:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1526003247</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[user_view_card]]></Event>
+<CardId><![CDATA[pIP0X0npSX_PNIIealuUkIzK4-nQ]]></CardId>
+<UserCardCode><![CDATA[648315928152]]></UserCardCode>
+<OuterStr><![CDATA[]]></OuterStr>
+</xml>
+
+2018-05-11 09:47:27 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1526003247',
+    'msgtype' => 'event',
+    'event' => 'user_view_card',
+    'cardid' => 'pIP0X0npSX_PNIIealuUkIzK4-nQ',
+    'usercardcode' => '648315928152',
+    'outerstr' => '',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1526003247',
+    'type' => 'event',
+  ),
+)
+
+2018-05-11 09:47:27 response :
+------------
+
+2018-05-11 09:59:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1526003981</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[user_get_card]]></Event>
+<CardId><![CDATA[pIP0X0otkUTC9jFGaR5jGTUDgFIs]]></CardId>
+<IsGiveByFriend>0</IsGiveByFriend>
+<UserCardCode><![CDATA[493664049296]]></UserCardCode>
+<FriendUserName><![CDATA[]]></FriendUserName>
+<OuterId>0</OuterId>
+<OldUserCardCode><![CDATA[]]></OldUserCardCode>
+<IsRestoreMemberCard>0</IsRestoreMemberCard>
+<IsRecommendByFriend>0</IsRecommendByFriend>
+<SourceScene><![CDATA[SOURCE_SCENE_MP_PREVIEW]]></SourceScene>
+<UnionId><![CDATA[oAAAAAH2tf6sT4AD9qetZsJ6eXNA]]></UnionId>
+</xml>
+
+2018-05-11 09:59:42 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1526003981',
+    'msgtype' => 'event',
+    'event' => 'user_get_card',
+    'cardid' => 'pIP0X0otkUTC9jFGaR5jGTUDgFIs',
+    'isgivebyfriend' => '0',
+    'usercardcode' => '493664049296',
+    'friendusername' => '',
+    'outerid' => '0',
+    'oldusercardcode' => '',
+    'isrestoremembercard' => '0',
+    'isrecommendbyfriend' => '0',
+    'sourcescene' => 'SOURCE_SCENE_MP_PREVIEW',
+    'unionid' => 'oAAAAAH2tf6sT4AD9qetZsJ6eXNA',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1526003981',
+    'type' => 'coupon',
+  ),
+)
+
+2018-05-11 09:59:42 response :
+------------
+
+2018-05-11 09:59:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1526003982</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[user_view_card]]></Event>
+<CardId><![CDATA[pIP0X0otkUTC9jFGaR5jGTUDgFIs]]></CardId>
+<UserCardCode><![CDATA[493664049296]]></UserCardCode>
+<OuterStr><![CDATA[]]></OuterStr>
+</xml>
+
+2018-05-11 09:59:42 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1526003982',
+    'msgtype' => 'event',
+    'event' => 'user_view_card',
+    'cardid' => 'pIP0X0otkUTC9jFGaR5jGTUDgFIs',
+    'usercardcode' => '493664049296',
+    'outerstr' => '',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1526003982',
+    'type' => 'event',
+  ),
+)
+
+2018-05-11 09:59:42 response :
+------------
+
+2018-05-11 10:02:23 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0uDOWmQRCKWObYJfS4Kfl4M]]></FromUserName>
+<CreateTime>1526004142</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[card_pass_check]]></Event>
+<CardId><![CDATA[pIP0X0lQ8HxQnl0QscX_nU5iSW5I]]></CardId>
+<RefuseReason><![CDATA[]]></RefuseReason>
+</xml>
+
+2018-05-11 10:02:23 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0uDOWmQRCKWObYJfS4Kfl4M',
+    'createtime' => '1526004142',
+    'msgtype' => 'event',
+    'event' => 'card_pass_check',
+    'cardid' => 'pIP0X0lQ8HxQnl0QscX_nU5iSW5I',
+    'refusereason' => '',
+    'from' => 'oIP0X0uDOWmQRCKWObYJfS4Kfl4M',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1526004142',
+    'type' => 'coupon',
+  ),
+)
+
+2018-05-11 10:02:23 response :
+------------
+
+2018-05-11 11:19:22 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018051021001004230556824946',
+  'subject' => '餐饮20180510209037422207',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-10 10:55:32',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018051010550700001264087488',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-05-11 11:19:21',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.10',
+  'gmt_payment' => '2018-05-10 10:55:33',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.10',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '57b0b0556e5581d6779de0cd7d13f0fhs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '32b0581d72b039e99a7a7494680232df',
+  'query_type' => 'notify',
+)
+
+2018-05-11 11:38:20 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018051021001004230556793498',
+  'subject' => '餐饮20180510220316660451',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-10 11:14:28',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018051011135400001288986894',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-05-11 11:38:20',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.10',
+  'gmt_payment' => '2018-05-10 11:14:29',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.10',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'c4bf147b03aa5b8d7e6cdc69ddb82c4hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '2729359790e7a195cac9139e037b7d9b',
+  'query_type' => 'notify',
+)
+
+2018-05-11 11:42:06 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018051021001004230557019090',
+  'subject' => '餐饮20180510221367036474',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-10 11:18:17',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018051011154100001222145228',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-05-11 11:42:06',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.10',
+  'gmt_payment' => '2018-05-10 11:18:18',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.10',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'fdaa817d20231ddf35eb0c8bdd2ba2ehs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'a50abc71fb40507efd773dd9f3c85dc8',
+  'query_type' => 'notify',
+)
+
+2018-05-11 11:44:12 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018051021001004230556937689',
+  'subject' => '餐饮20180510223810902607',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-10 11:20:15',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018051011194500001275268842',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-05-11 11:44:09',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.10',
+  'gmt_payment' => '2018-05-10 11:20:17',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.10',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'c4e1c7ac3e67e1ea7b2b3fc05573a55hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'bb479a920e76eeb81d5c13eb019c0d6f',
+  'query_type' => 'notify',
+)
+

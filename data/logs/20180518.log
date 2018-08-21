@@ -1,0 +1,133 @@
+2018-05-18 17:42:58 pay-alipay :
+------------
+String:
+array (
+  'body' => '2',
+  'is_success' => 'T',
+  'notify_id' => 'RqPnCoPT3K9%2Fvwbh3Ih0HpB1dSq4OKdGMxFfuDTJs7kkqGLqXvZbcJvu9GsWIAfUGVXw',
+  'notify_time' => '2018-05-05 17:54:46',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '2018050517542500001282782268',
+  'payment_type' => '1',
+  'seller_id' => '2088621957819369',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'subject' => '餐饮20180505140629077648',
+  'total_fee' => '0.10',
+  'trade_no' => '2018050521001004230541142379',
+  'trade_status' => 'TRADE_SUCCESS',
+  'sign' => '32953220a77fdcefe089267f6e547b84',
+  'sign_type' => 'MD5',
+  'query_type' => 'return',
+)
+
+2018-05-18 22:32:28 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1526653948</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>286247440502374401</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-05-18 22:32:28 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1526653948',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '286247440502374401',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1526653948',
+    'type' => 'event',
+  ),
+)
+
+2018-05-18 22:32:28 response :
+------------
+
+2018-05-18 22:36:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1526654204</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>286251744495812608</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-05-18 22:36:44 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1526654204',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '286251744495812608',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1526654204',
+    'type' => 'event',
+  ),
+)
+
+2018-05-18 22:36:44 response :
+------------
+
+2018-05-18 22:41:59 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1526654519</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>286257028664541184</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-05-18 22:41:59 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1526654519',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '286257028664541184',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1526654519',
+    'type' => 'event',
+  ),
+)
+
+2018-05-18 22:41:59 response :
+------------
+

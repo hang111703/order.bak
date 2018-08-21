@@ -1,0 +1,928 @@
+2017-11-09 10:57:43 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510196263</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-09 10:57:43 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1510196263',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510196263',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-09 10:57:43 response :
+------------
+
+2017-11-09 11:01:53 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510196513</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-11-09 11:02:26 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510196545</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-11-09 11:02:26 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1510196545',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510196545',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+    'content' => '网上订餐',
+  ),
+)
+
+2017-11-09 11:02:26 response :
+------------
+
+2017-11-09 11:02:48 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510196567</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[订餐]]></Content>
+<MsgId>6486244866613621834</MsgId>
+</xml>
+
+2017-11-09 11:02:48 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1510196567',
+    'msgtype' => 'text',
+    'content' => '订餐',
+    'msgid' => '6486244866613621834',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510196567',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'reply',
+  'rule' => '9',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '20',
+    'rid' => '9',
+    'uniacid' => '2',
+    'module' => 'reply',
+    'content' => '订餐',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+      0 => 'news',
+    ),
+  ),
+  'reply_type' => 
+  array (
+    0 => 'news',
+  ),
+)
+
+2017-11-09 11:02:48 response :
+------------
+Array:
+FromUserName : gh_7bcd94754b84 ;
+ToUserName : o01Wu01-zSLzut3cB22KEbJ3JxzY ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-11-09 11:08:58 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510196938</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-11-09 11:09:26 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510196965</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-11-09 11:09:26 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1510196965',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510196965',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+    'content' => '订餐',
+  ),
+  'module' => 'reply',
+  'rule' => '9',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '20',
+    'rid' => '9',
+    'uniacid' => '2',
+    'module' => 'reply',
+    'content' => '订餐',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+      0 => 'news',
+    ),
+  ),
+  'reply_type' => 
+  array (
+    0 => 'news',
+  ),
+)
+
+2017-11-09 11:09:26 response :
+------------
+Array:
+FromUserName : gh_7bcd94754b84 ;
+ToUserName : o01Wu01-zSLzut3cB22KEbJ3JxzY ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-11-09 11:10:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510197015</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-09 11:10:15 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1510197015',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510197015',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-09 11:10:15 response :
+------------
+
+2017-11-09 11:22:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510197726</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-09 11:22:06 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1510197726',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510197726',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-09 11:22:06 response :
+------------
+
+2017-11-09 14:25:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510208707</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-09 14:25:07 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1510208707',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510208707',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-09 14:25:07 response :
+------------
+
+2017-11-09 14:37:59 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510209479</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-09 14:37:59 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1510209479',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510209479',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-09 14:37:59 response :
+------------
+
+2017-11-09 14:41:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510209692</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-09 14:41:32 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1510209692',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510209692',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-09 14:41:32 response :
+------------
+
+2017-11-09 14:42:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510209724</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-09 14:42:04 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1510209724',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510209724',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-09 14:42:04 response :
+------------
+
+2017-11-09 14:56:59 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510210618</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-09 14:56:59 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1510210618',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510210618',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-09 14:56:59 response :
+------------
+
+2017-11-09 15:16:52 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu09x8WFY1ZBV-HAf-R-a3ytI]]></FromUserName>
+<CreateTime>1510211812</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-11-09 15:16:52 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu09x8WFY1ZBV-HAf-R-a3ytI',
+    'createtime' => '1510211812',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o01Wu09x8WFY1ZBV-HAf-R-a3ytI',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510211812',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+    'content' => '订餐',
+  ),
+  'module' => 'reply',
+  'rule' => '9',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '20',
+    'rid' => '9',
+    'uniacid' => '2',
+    'module' => 'reply',
+    'content' => '订餐',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+      0 => 'news',
+    ),
+  ),
+  'reply_type' => 
+  array (
+    0 => 'news',
+  ),
+)
+
+2017-11-09 15:16:52 response :
+------------
+Array:
+FromUserName : gh_7bcd94754b84 ;
+ToUserName : o01Wu09x8WFY1ZBV-HAf-R-a3ytI ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-11-09 15:16:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu09x8WFY1ZBV-HAf-R-a3ytI]]></FromUserName>
+<CreateTime>1510211816</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-09 15:16:56 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu09x8WFY1ZBV-HAf-R-a3ytI',
+    'createtime' => '1510211816',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu09x8WFY1ZBV-HAf-R-a3ytI',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510211816',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-09 15:16:56 response :
+------------
+
+2017-11-09 15:28:45 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu09x8WFY1ZBV-HAf-R-a3ytI]]></FromUserName>
+<CreateTime>1510212525</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-09 15:28:45 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu09x8WFY1ZBV-HAf-R-a3ytI',
+    'createtime' => '1510212525',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu09x8WFY1ZBV-HAf-R-a3ytI',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510212525',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-09 15:28:45 response :
+------------
+
+2017-11-09 15:45:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu09x8WFY1ZBV-HAf-R-a3ytI]]></FromUserName>
+<CreateTime>1510213502</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-09 15:45:02 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu09x8WFY1ZBV-HAf-R-a3ytI',
+    'createtime' => '1510213502',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu09x8WFY1ZBV-HAf-R-a3ytI',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510213502',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-09 15:45:02 response :
+------------
+
+2017-11-09 16:21:18 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510215678</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-09 16:21:18 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1510215678',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510215678',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-09 16:21:18 response :
+------------
+
+2017-11-09 17:20:27 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2017110921001004230549402398',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2017-11-09 17:20:24',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201711091510219205',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2017-11-09 17:20:27',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2017-11-09 17:20:26',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'a147779a6fa209c5cd9a0fe42c9e7c4hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '7797d3449871872877245a04bb149103',
+  'query_type' => 'notify',
+)
+
+2017-11-09 17:20:36 pay-alipay :
+------------
+String:
+array (
+  'body' => '2',
+  'is_success' => 'T',
+  'notify_id' => 'RqPnCoPT3K9%2Fvwbh3Ih308sSa7BPpXGCorscAhPgpyIu6ja8awqKb9tdWw5opdXwxpR%2B',
+  'notify_time' => '2017-11-09 17:20:27',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '201711091510219205',
+  'payment_type' => '1',
+  'seller_id' => '2088621957819369',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'subject' => '测试支付接口',
+  'total_fee' => '0.01',
+  'trade_no' => '2017110921001004230549402398',
+  'trade_status' => 'TRADE_SUCCESS',
+  'sign' => '554776b34062bfe98fbca7bc894cf70d',
+  'sign_type' => 'MD5',
+  'query_type' => 'return',
+)
+
+2017-11-09 17:24:30 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2017110921001004230549402398',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2017-11-09 17:20:24',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201711091510219205',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2017-11-09 17:24:29',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2017-11-09 17:20:26',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'a147779a6fa209c5cd9a0fe42c9e7c4hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '5db0527d13c6bc9eb63a20b10188805d',
+  'query_type' => 'notify',
+)
+
+2017-11-09 17:34:15 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2017110921001004230549402398',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2017-11-09 17:20:24',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201711091510219205',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2017-11-09 17:34:14',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2017-11-09 17:20:26',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'a147779a6fa209c5cd9a0fe42c9e7c4hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '00ab2990776b4c42b2a6282a72f1b8b6',
+  'query_type' => 'notify',
+)
+
+2017-11-09 17:44:04 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2017110921001004230549402398',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2017-11-09 17:20:24',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201711091510219205',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2017-11-09 17:44:03',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2017-11-09 17:20:26',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'a147779a6fa209c5cd9a0fe42c9e7c4hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'dd618b8842da332f365c5f956a331e77',
+  'query_type' => 'notify',
+)
+
+2017-11-09 18:44:20 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2017110921001004230549402398',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2017-11-09 17:20:24',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201711091510219205',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2017-11-09 18:44:19',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2017-11-09 17:20:26',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'a147779a6fa209c5cd9a0fe42c9e7c4hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '48dbaffba9db9aa1c8012c90ba82bbe0',
+  'query_type' => 'notify',
+)
+
+2017-11-09 20:44:08 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2017110921001004230549402398',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2017-11-09 17:20:24',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201711091510219205',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2017-11-09 20:44:08',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2017-11-09 17:20:26',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'a147779a6fa209c5cd9a0fe42c9e7c4hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'fb7a06600f90896d9fba802d8842682d',
+  'query_type' => 'notify',
+)
+

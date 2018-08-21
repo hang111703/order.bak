@@ -1,0 +1,180 @@
+2018-08-08 10:11:47 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050621001004230542302290',
+  'subject' => '餐饮20180506692057986438',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-06 09:47:12',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050609405300001229483221',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-08-08 10:11:47',
+  'body' => '2',
+  'trade_status' => 'TRADE_FINISHED',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.10',
+  'gmt_payment' => '2018-05-06 09:47:13',
+  'seller_email' => 'jin703@outlook.com',
+  'gmt_close' => '2018-08-07 09:47:55',
+  'price' => '0.10',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '3136ad78c5e3fd0ef6b6fe101029272hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '05ac2b1e7047b6e95f56a40dd349c2c1',
+  'query_type' => 'notify',
+)
+
+2018-08-08 22:29:57 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050721001004230547810824',
+  'subject' => '会员余额充值',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-07 22:29:11',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050722274900000586086632',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-08-08 22:29:55',
+  'body' => '2',
+  'trade_status' => 'TRADE_FINISHED',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '1.00',
+  'gmt_payment' => '2018-05-07 22:29:13',
+  'seller_email' => 'jin703@outlook.com',
+  'gmt_close' => '2018-08-08 22:29:55',
+  'price' => '1.00',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'e46eabaea8d50557186da3d80c17befhs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'dd5654e5413ed64a8a44397a7db041d7',
+  'query_type' => 'notify',
+)
+
+2018-08-08 22:33:38 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050721001004230547810824',
+  'subject' => '会员余额充值',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-07 22:29:11',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050722274900000586086632',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-08-08 22:33:37',
+  'body' => '2',
+  'trade_status' => 'TRADE_FINISHED',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '1.00',
+  'gmt_payment' => '2018-05-07 22:29:13',
+  'seller_email' => 'jin703@outlook.com',
+  'gmt_close' => '2018-08-08 22:29:55',
+  'price' => '1.00',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'e46eabaea8d50557186da3d80c17befhs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'b85edba44ff58a9b52d3d8d81978d204',
+  'query_type' => 'notify',
+)
+
+2018-08-08 22:43:22 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050721001004230547810824',
+  'subject' => '会员余额充值',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-07 22:29:11',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050722274900000586086632',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-08-08 22:43:22',
+  'body' => '2',
+  'trade_status' => 'TRADE_FINISHED',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '1.00',
+  'gmt_payment' => '2018-05-07 22:29:13',
+  'seller_email' => 'jin703@outlook.com',
+  'gmt_close' => '2018-08-08 22:29:55',
+  'price' => '1.00',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'e46eabaea8d50557186da3d80c17befhs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '98148fe6fb4e24abceec7df5387bcb46',
+  'query_type' => 'notify',
+)
+
+2018-08-08 22:53:22 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050721001004230547810824',
+  'subject' => '会员余额充值',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-07 22:29:11',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050722274900000586086632',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-08-08 22:53:21',
+  'body' => '2',
+  'trade_status' => 'TRADE_FINISHED',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '1.00',
+  'gmt_payment' => '2018-05-07 22:29:13',
+  'seller_email' => 'jin703@outlook.com',
+  'gmt_close' => '2018-08-08 22:29:55',
+  'price' => '1.00',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'e46eabaea8d50557186da3d80c17befhs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'acdeb94b661a6542b3d687f9ca5b3eaf',
+  'query_type' => 'notify',
+)
+
+2018-08-08 23:53:16 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050721001004230547810824',
+  'subject' => '会员余额充值',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-07 22:29:11',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050722274900000586086632',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-08-08 23:53:15',
+  'body' => '2',
+  'trade_status' => 'TRADE_FINISHED',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '1.00',
+  'gmt_payment' => '2018-05-07 22:29:13',
+  'seller_email' => 'jin703@outlook.com',
+  'gmt_close' => '2018-08-08 22:29:55',
+  'price' => '1.00',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'e46eabaea8d50557186da3d80c17befhs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '7981e181b4eca57433bedac4c9d52264',
+  'query_type' => 'notify',
+)
+

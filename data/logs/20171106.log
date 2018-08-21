@@ -1,0 +1,29 @@
+2017-11-06 14:15:20 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2017110521001004230547075549',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2017-11-05 13:51:24',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201711051509860998',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2017-11-06 14:15:20',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2017-11-05 13:51:26',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'fe46272cc2277925a63b6851798295ahs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '180f9e39b6363bd4a19a039f9acda386',
+  'query_type' => 'notify',
+)
+

@@ -1,0 +1,151 @@
+2018-06-29 22:02:47 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1530280967</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>347098725140807683</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-06-29 22:02:47 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1530280967',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '347098725140807683',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530280967',
+    'type' => 'event',
+  ),
+)
+
+2018-06-29 22:02:47 response :
+------------
+
+2018-06-29 22:02:57 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0oF5n7OLu49EpAwdouhzRkU]]></FromUserName>
+<CreateTime>1530280977</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>347098900194263040</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-06-29 22:02:57 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'createtime' => '1530280977',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '347098900194263040',
+    'status' => 'success',
+    'from' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530280977',
+    'type' => 'event',
+  ),
+)
+
+2018-06-29 22:02:57 response :
+------------
+
+2018-06-29 22:05:05 SQL Error :
+------------
+String:
+SQL: <br/>UPDATE `ims_weisrc_dish_goods` SET `today_count` = :today_count_66 , `sales` = :sales_67 WHERE `weid` = :__weid_68 AND `id` = :__id_69<hr/>Params: <br/>array (
+  ':today_count_66' => 1,
+  ':sales_67' => 0,
+  ':__weid_68' => 2,
+  ':__id_69' => 158,
+)<hr/>SQL Error: <br/>Unknown column 'today_count' in 'field list'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 95; <br />file: /framework/class/db.class.php; line: 247; <br />file: /framework/function/pdo.func.php; line: 81; <br />file: /addons/weisrc_dish/site.php; line: 5994; <br />file: /web/source/site/entry.ctrl.php; line: 89; <br />file: /web/index.php; line: 80; <br />
+
+2018-06-29 22:06:28 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1530281188</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>347102433324974080</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-06-29 22:06:28 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1530281188',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '347102433324974080',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530281188',
+    'type' => 'event',
+  ),
+)
+
+2018-06-29 22:06:28 response :
+------------
+
+2018-06-29 22:07:07 SQL Error :
+------------
+String:
+SQL: <br/>UPDATE `ims_weisrc_dish_goods` SET `today_count` = :today_count_66 , `sales` = :sales_67 WHERE `weid` = :__weid_68 AND `id` = :__id_69<hr/>Params: <br/>array (
+  ':today_count_66' => 1,
+  ':sales_67' => 0,
+  ':__weid_68' => 2,
+  ':__id_69' => 158,
+)<hr/>SQL Error: <br/>Unknown column 'today_count' in 'field list'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 95; <br />file: /framework/class/db.class.php; line: 247; <br />file: /framework/function/pdo.func.php; line: 81; <br />file: /addons/weisrc_dish/site.php; line: 5994; <br />file: /web/source/site/entry.ctrl.php; line: 89; <br />file: /web/index.php; line: 80; <br />
+
+2018-06-29 22:12:04 SQL Error :
+------------
+String:
+SQL: <br/>UPDATE `ims_weisrc_dish_goods` SET `today_count` = :today_count_66 , `sales` = :sales_67 WHERE `weid` = :__weid_68 AND `id` = :__id_69<hr/>Params: <br/>array (
+  ':today_count_66' => 1,
+  ':sales_67' => 0,
+  ':__weid_68' => 2,
+  ':__id_69' => 158,
+)<hr/>SQL Error: <br/>Unknown column 'today_count' in 'field list'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 95; <br />file: /framework/class/db.class.php; line: 247; <br />file: /framework/function/pdo.func.php; line: 81; <br />file: /addons/weisrc_dish/site.php; line: 5994; <br />file: /web/source/site/entry.ctrl.php; line: 89; <br />file: /web/index.php; line: 80; <br />
+
+2018-06-29 22:42:32 SQL Error :
+------------
+String:
+SQL: <br/>UPDATE `ims_weisrc_dish_goods` SET `today_count` = :today_count_66 , `sales` = :sales_67 WHERE `weid` = :__weid_68 AND `id` = :__id_69<hr/>Params: <br/>array (
+  ':today_count_66' => 1,
+  ':sales_67' => 0,
+  ':__weid_68' => 2,
+  ':__id_69' => 158,
+)<hr/>SQL Error: <br/>Unknown column 'today_count' in 'field list'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 95; <br />file: /framework/class/db.class.php; line: 247; <br />file: /framework/function/pdo.func.php; line: 81; <br />file: /addons/weisrc_dish/site.php; line: 5995; <br />file: /web/source/site/entry.ctrl.php; line: 89; <br />file: /web/index.php; line: 80; <br />
+

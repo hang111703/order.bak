@@ -1,0 +1,661 @@
+2018-07-02 10:08:59 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1530497338</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>350728837354635266</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-02 10:08:59 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1530497338',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '350728837354635266',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530497338',
+    'type' => 'event',
+  ),
+)
+
+2018-07-02 10:08:59 response :
+------------
+
+2018-07-02 10:09:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0oF5n7OLu49EpAwdouhzRkU]]></FromUserName>
+<CreateTime>1530497347</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>350728982175547396</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-02 10:09:07 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'createtime' => '1530497347',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '350728982175547396',
+    'status' => 'success',
+    'from' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530497347',
+    'type' => 'event',
+  ),
+)
+
+2018-07-02 10:09:07 response :
+------------
+
+2018-07-02 11:12:52 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1530501172</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>350793147040808960</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-02 11:12:52 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1530501172',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '350793147040808960',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530501172',
+    'type' => 'event',
+  ),
+)
+
+2018-07-02 11:12:52 response :
+------------
+
+2018-07-02 11:13:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0oF5n7OLu49EpAwdouhzRkU]]></FromUserName>
+<CreateTime>1530501180</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>350793286191022081</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-02 11:13:00 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'createtime' => '1530501180',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '350793286191022081',
+    'status' => 'success',
+    'from' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530501180',
+    'type' => 'event',
+  ),
+)
+
+2018-07-02 11:13:00 response :
+------------
+
+2018-07-02 11:14:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1530501242</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>350794324683931650</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-02 11:14:02 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1530501242',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '350794324683931650',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530501242',
+    'type' => 'event',
+  ),
+)
+
+2018-07-02 11:14:02 response :
+------------
+
+2018-07-02 11:14:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0oF5n7OLu49EpAwdouhzRkU]]></FromUserName>
+<CreateTime>1530501249</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>350794455244210176</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-02 11:14:10 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'createtime' => '1530501249',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '350794455244210176',
+    'status' => 'success',
+    'from' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530501249',
+    'type' => 'event',
+  ),
+)
+
+2018-07-02 11:14:10 response :
+------------
+
+2018-07-02 11:37:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1530502630</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>350817608204959746</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-02 11:37:10 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1530502630',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '350817608204959746',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530502630',
+    'type' => 'event',
+  ),
+)
+
+2018-07-02 11:37:10 response :
+------------
+
+2018-07-02 14:24:08 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1530512648</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>350985691246772227</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-02 14:24:08 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1530512648',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '350985691246772227',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530512648',
+    'type' => 'event',
+  ),
+)
+
+2018-07-02 14:24:08 response :
+------------
+
+2018-07-02 14:24:26 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0oF5n7OLu49EpAwdouhzRkU]]></FromUserName>
+<CreateTime>1530512666</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>350985996927631360</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-02 14:24:26 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'createtime' => '1530512666',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '350985996927631360',
+    'status' => 'success',
+    'from' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530512666',
+    'type' => 'event',
+  ),
+)
+
+2018-07-02 14:24:26 response :
+------------
+
+2018-07-02 14:26:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1530512795</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>350988148790149122</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-02 14:26:35 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1530512795',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '350988148790149122',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530512795',
+    'type' => 'event',
+  ),
+)
+
+2018-07-02 14:26:35 response :
+------------
+
+2018-07-02 14:40:09 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1530513609</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>351001811383107585</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-02 14:40:09 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1530513609',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '351001811383107585',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530513609',
+    'type' => 'event',
+  ),
+)
+
+2018-07-02 14:40:09 response :
+------------
+
+2018-07-02 14:40:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0oF5n7OLu49EpAwdouhzRkU]]></FromUserName>
+<CreateTime>1530513617</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>351001941138079744</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-02 14:40:17 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'createtime' => '1530513617',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '351001941138079744',
+    'status' => 'success',
+    'from' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530513617',
+    'type' => 'event',
+  ),
+)
+
+2018-07-02 14:40:17 response :
+------------
+
+2018-07-02 16:19:45 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1530519585</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>351102077512073216</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-02 16:19:45 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1530519585',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '351102077512073216',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530519585',
+    'type' => 'event',
+  ),
+)
+
+2018-07-02 16:19:45 response :
+------------
+
+2018-07-02 16:19:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0oF5n7OLu49EpAwdouhzRkU]]></FromUserName>
+<CreateTime>1530519594</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>351102233053626372</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-02 16:19:55 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'createtime' => '1530519594',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '351102233053626372',
+    'status' => 'success',
+    'from' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530519594',
+    'type' => 'event',
+  ),
+)
+
+2018-07-02 16:19:55 response :
+------------
+
+2018-07-02 16:25:23 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1530519923</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>351107741147873280</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-02 16:25:23 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1530519923',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '351107741147873280',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530519923',
+    'type' => 'event',
+  ),
+)
+
+2018-07-02 16:25:23 response :
+------------
+
+2018-07-02 16:25:34 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0oF5n7OLu49EpAwdouhzRkU]]></FromUserName>
+<CreateTime>1530519934</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>351107932827549696</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-02 16:25:34 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'createtime' => '1530519934',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '351107932827549696',
+    'status' => 'success',
+    'from' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530519934',
+    'type' => 'event',
+  ),
+)
+
+2018-07-02 16:25:34 response :
+------------
+
+2018-07-02 17:20:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1530523242</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>351163422597070850</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-02 17:20:42 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1530523242',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '351163422597070850',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1530523242',
+    'type' => 'event',
+  ),
+)
+
+2018-07-02 17:20:42 response :
+------------
+
+2018-07-02 17:20:57 SQL Error :
+------------
+String:
+SQL: <br/>SELECT * FROM `ims_weisrc_dish_goods` WHERE storeid=:storeid AND weid=:weid  AND deleted=0 AND pcate=14 and find_in_set(date('N',time()),week) > 0<hr/>Params: <br/>array (
+  ':storeid' => 5,
+  ':weid' => 2,
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time()),week) > 0' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 162; <br />file: /framework/function/pdo.func.php; line: 49; <br />file: /addons/weisrc_dish/inc/web/order.inc.php; line: 215; <br />file: /framework/class/account.class.php; line: 1082; <br />file: /web/source/site/entry.ctrl.php; line: 89; <br />file: /web/source/site/entry.ctrl.php; line: 89; <br />file: /web/index.php; line: 80; <br />
+
+2018-07-02 17:22:36 SQL Error :
+------------
+String:
+SQL: <br/>SELECT * FROM `ims_weisrc_dish_goods` WHERE storeid=:storeid AND weid=:weid  AND deleted=0 AND pcate=14 and find_in_set(date('N',time()),week) > 0<hr/>Params: <br/>array (
+  ':storeid' => 5,
+  ':weid' => 2,
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time()),week) > 0' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 162; <br />file: /framework/function/pdo.func.php; line: 49; <br />file: /addons/weisrc_dish/inc/web/order.inc.php; line: 215; <br />file: /framework/class/account.class.php; line: 1082; <br />file: /web/source/site/entry.ctrl.php; line: 89; <br />file: /web/source/site/entry.ctrl.php; line: 89; <br />file: /web/index.php; line: 80; <br />
+
+2018-07-02 17:22:37 SQL Error :
+------------
+String:
+SQL: <br/>SELECT * FROM `ims_weisrc_dish_goods` WHERE storeid=:storeid AND weid=:weid  AND deleted=0 AND pcate=14 and find_in_set(date('N',time()),week) > 0<hr/>Params: <br/>array (
+  ':storeid' => 5,
+  ':weid' => 2,
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time()),week) > 0' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 162; <br />file: /framework/function/pdo.func.php; line: 49; <br />file: /addons/weisrc_dish/inc/web/order.inc.php; line: 215; <br />file: /framework/class/account.class.php; line: 1082; <br />file: /web/source/site/entry.ctrl.php; line: 89; <br />file: /web/source/site/entry.ctrl.php; line: 89; <br />file: /web/index.php; line: 80; <br />
+
+2018-07-02 17:22:37 SQL Error :
+------------
+String:
+SQL: <br/>SELECT * FROM `ims_weisrc_dish_goods` WHERE storeid=:storeid AND weid=:weid  AND deleted=0 AND pcate=14 and find_in_set(date('N',time()),week) > 0<hr/>Params: <br/>array (
+  ':storeid' => 5,
+  ':weid' => 2,
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'time()),week) > 0' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 162; <br />file: /framework/function/pdo.func.php; line: 49; <br />file: /addons/weisrc_dish/inc/web/order.inc.php; line: 215; <br />file: /framework/class/account.class.php; line: 1082; <br />file: /web/source/site/entry.ctrl.php; line: 89; <br />file: /web/source/site/entry.ctrl.php; line: 89; <br />file: /web/index.php; line: 80; <br />
+

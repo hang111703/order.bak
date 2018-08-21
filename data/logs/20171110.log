@@ -1,0 +1,438 @@
+2017-11-10 02:44:16 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2017110921001004230549402398',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2017-11-09 17:20:24',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201711091510219205',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2017-11-10 02:44:16',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2017-11-09 17:20:26',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'a147779a6fa209c5cd9a0fe42c9e7c4hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '7e169a9f68cd323653c9e2ff0260e91d',
+  'query_type' => 'notify',
+)
+
+2017-11-10 08:50:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu09x8WFY1ZBV-HAf-R-a3ytI]]></FromUserName>
+<CreateTime>1510275025</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-10 08:50:25 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu09x8WFY1ZBV-HAf-R-a3ytI',
+    'createtime' => '1510275025',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu09x8WFY1ZBV-HAf-R-a3ytI',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510275025',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-10 08:50:25 response :
+------------
+
+2017-11-10 08:56:23 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2017111021001004230549710836',
+  'subject' => '餐饮20171109178559128029',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2017-11-10 08:56:21',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2017110916580600001263186668',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2017-11-10 08:56:23',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.30',
+  'gmt_payment' => '2017-11-10 08:56:23',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.30',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '47c1bfe99f5155b6ba897ead7c12137hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '95c1c38a1d3d466f86c9c80e441ff1f5',
+  'query_type' => 'notify',
+)
+
+2017-11-10 08:56:32 pay-alipay :
+------------
+String:
+array (
+  'body' => '2',
+  'is_success' => 'T',
+  'notify_id' => 'RqPnCoPT3K9%2Fvwbh3Ih308sUo4ILro7jxsKVxTSLxV55ogYqj46bqp7cuuHokqi4ofvX',
+  'notify_time' => '2017-11-10 08:56:23',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '2017110916580600001263186668',
+  'payment_type' => '1',
+  'seller_id' => '2088621957819369',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'subject' => '餐饮20171109178559128029',
+  'total_fee' => '0.30',
+  'trade_no' => '2017111021001004230549710836',
+  'trade_status' => 'TRADE_SUCCESS',
+  'sign' => '096e1dcdcdd56492a39be1aec1226471',
+  'sign_type' => 'MD5',
+  'query_type' => 'return',
+)
+
+2017-11-10 09:00:11 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2017111021001004230549710836',
+  'subject' => '餐饮20171109178559128029',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2017-11-10 08:56:21',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2017110916580600001263186668',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2017-11-10 09:00:10',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.30',
+  'gmt_payment' => '2017-11-10 08:56:23',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.30',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '47c1bfe99f5155b6ba897ead7c12137hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '547983ae53dce296f6731cfe349318a5',
+  'query_type' => 'notify',
+)
+
+2017-11-10 09:10:11 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2017111021001004230549710836',
+  'subject' => '餐饮20171109178559128029',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2017-11-10 08:56:21',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2017110916580600001263186668',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2017-11-10 09:10:10',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.30',
+  'gmt_payment' => '2017-11-10 08:56:23',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.30',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '47c1bfe99f5155b6ba897ead7c12137hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '0df096fa2012cf3ddd14b1f6ac5695a9',
+  'query_type' => 'notify',
+)
+
+2017-11-10 09:20:52 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2017111021001004230549710836',
+  'subject' => '餐饮20171109178559128029',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2017-11-10 08:56:21',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2017110916580600001263186668',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2017-11-10 09:20:51',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.30',
+  'gmt_payment' => '2017-11-10 08:56:23',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.30',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '47c1bfe99f5155b6ba897ead7c12137hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'c9de49c9e7b34904008bcbc8ac9028da',
+  'query_type' => 'notify',
+)
+
+2017-11-10 10:20:26 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2017111021001004230549710836',
+  'subject' => '餐饮20171109178559128029',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2017-11-10 08:56:21',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2017110916580600001263186668',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2017-11-10 10:20:26',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.30',
+  'gmt_payment' => '2017-11-10 08:56:23',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.30',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '47c1bfe99f5155b6ba897ead7c12137hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '59f1377ec48380fe5dea406aa05e6fe3',
+  'query_type' => 'notify',
+)
+
+2017-11-10 12:20:32 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2017111021001004230549710836',
+  'subject' => '餐饮20171109178559128029',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2017-11-10 08:56:21',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2017110916580600001263186668',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2017-11-10 12:20:32',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.30',
+  'gmt_payment' => '2017-11-10 08:56:23',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.30',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '47c1bfe99f5155b6ba897ead7c12137hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '4b953560820b93f5f7aaa5195a87c3d2',
+  'query_type' => 'notify',
+)
+
+2017-11-10 17:42:18 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu06gvc3RQ5JbbDKdyoEdBo4U]]></FromUserName>
+<CreateTime>1510306938</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-11-10 17:42:18 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu06gvc3RQ5JbbDKdyoEdBo4U',
+    'createtime' => '1510306938',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o01Wu06gvc3RQ5JbbDKdyoEdBo4U',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510306938',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+    'content' => '订餐',
+  ),
+  'module' => 'reply',
+  'rule' => '9',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '20',
+    'rid' => '9',
+    'uniacid' => '2',
+    'module' => 'reply',
+    'content' => '订餐',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+      0 => 'news',
+    ),
+  ),
+  'reply_type' => 
+  array (
+    0 => 'news',
+  ),
+)
+
+2017-11-10 17:42:18 response :
+------------
+Array:
+FromUserName : gh_7bcd94754b84 ;
+ToUserName : o01Wu06gvc3RQ5JbbDKdyoEdBo4U ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-11-10 17:42:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu06gvc3RQ5JbbDKdyoEdBo4U]]></FromUserName>
+<CreateTime>1510306940</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-10 17:42:20 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu06gvc3RQ5JbbDKdyoEdBo4U',
+    'createtime' => '1510306940',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu06gvc3RQ5JbbDKdyoEdBo4U',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510306940',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-10 17:42:20 response :
+------------
+
+2017-11-10 17:43:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu06gvc3RQ5JbbDKdyoEdBo4U]]></FromUserName>
+<CreateTime>1510307011</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-11-10 17:44:25 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2017110921001004230549402398',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2017-11-09 17:20:24',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201711091510219205',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2017-11-10 17:44:25',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2017-11-09 17:20:26',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'a147779a6fa209c5cd9a0fe42c9e7c4hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'b7377eea40dc54fbfec900f5e5b8d9c4',
+  'query_type' => 'notify',
+)
+
+2017-11-10 18:20:41 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2017111021001004230549710836',
+  'subject' => '餐饮20171109178559128029',
+  'buyer_email' => 'hangming@msn.com',
+  'gmt_create' => '2017-11-10 08:56:21',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2017110916580600001263186668',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2017-11-10 18:20:41',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.30',
+  'gmt_payment' => '2017-11-10 08:56:23',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.30',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '47c1bfe99f5155b6ba897ead7c12137hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'f395502d7e0fd3e60abb737b1f1b5697',
+  'query_type' => 'notify',
+)
+

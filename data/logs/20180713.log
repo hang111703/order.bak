@@ -1,0 +1,594 @@
+2018-07-13 10:35:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1531449338</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>366700741819252741</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-13 10:35:38 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1531449338',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '366700741819252741',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1531449338',
+    'type' => 'event',
+  ),
+)
+
+2018-07-13 10:35:38 response :
+------------
+
+2018-07-13 10:35:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0oF5n7OLu49EpAwdouhzRkU]]></FromUserName>
+<CreateTime>1531449346</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>366700871540670465</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-13 10:35:46 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'createtime' => '1531449346',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '366700871540670465',
+    'status' => 'success',
+    'from' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1531449346',
+    'type' => 'event',
+  ),
+)
+
+2018-07-13 10:35:46 response :
+------------
+
+2018-07-13 10:44:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1531449878</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>366709799049609216</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-13 10:44:38 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1531449878',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '366709799049609216',
+    'status' => 'success',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1531449878',
+    'type' => 'event',
+  ),
+)
+
+2018-07-13 10:44:38 response :
+------------
+
+2018-07-13 10:44:47 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0oF5n7OLu49EpAwdouhzRkU]]></FromUserName>
+<CreateTime>1531449887</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>366709937142890497</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-13 10:44:47 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'createtime' => '1531449887',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '366709937142890497',
+    'status' => 'success',
+    'from' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1531449887',
+    'type' => 'event',
+  ),
+)
+
+2018-07-13 10:44:47 response :
+------------
+
+2018-07-13 10:45:47 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1531449947</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>366710959428976641</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-13 10:45:47 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1531449947',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '366710959428976641',
+    'status' => 'success',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1531449947',
+    'type' => 'event',
+  ),
+)
+
+2018-07-13 10:45:47 response :
+------------
+
+2018-07-13 10:45:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0oF5n7OLu49EpAwdouhzRkU]]></FromUserName>
+<CreateTime>1531449956</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>366711101867556864</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-13 10:45:56 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'createtime' => '1531449956',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '366711101867556864',
+    'status' => 'success',
+    'from' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1531449956',
+    'type' => 'event',
+  ),
+)
+
+2018-07-13 10:45:56 response :
+------------
+
+2018-07-13 10:50:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1531450205</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>366715280870752257</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-13 10:50:05 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1531450205',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '366715280870752257',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1531450205',
+    'type' => 'event',
+  ),
+)
+
+2018-07-13 10:50:05 response :
+------------
+
+2018-07-13 10:50:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0oF5n7OLu49EpAwdouhzRkU]]></FromUserName>
+<CreateTime>1531450213</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>366715412991311873</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-13 10:50:13 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'createtime' => '1531450213',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '366715412991311873',
+    'status' => 'success',
+    'from' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1531450213',
+    'type' => 'event',
+  ),
+)
+
+2018-07-13 10:50:13 response :
+------------
+
+2018-07-13 16:57:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1531472233</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>367084850525650945</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-13 16:57:13 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1531472233',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '367084850525650945',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1531472233',
+    'type' => 'event',
+  ),
+)
+
+2018-07-13 16:57:13 response :
+------------
+
+2018-07-13 16:57:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0oF5n7OLu49EpAwdouhzRkU]]></FromUserName>
+<CreateTime>1531472240</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>367084977545936896</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-13 16:57:20 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'createtime' => '1531472240',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '367084977545936896',
+    'status' => 'success',
+    'from' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1531472240',
+    'type' => 'event',
+  ),
+)
+
+2018-07-13 16:57:20 response :
+------------
+
+2018-07-13 17:02:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0g5j5OmrQEgSHLTECZbCFHw]]></FromUserName>
+<CreateTime>1531472564</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>367090406770491393</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-13 17:02:44 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'createtime' => '1531472564',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '367090406770491393',
+    'status' => 'success',
+    'from' => 'oIP0X0g5j5OmrQEgSHLTECZbCFHw',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1531472564',
+    'type' => 'event',
+  ),
+)
+
+2018-07-13 17:02:44 response :
+------------
+
+2018-07-13 17:02:52 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0oF5n7OLu49EpAwdouhzRkU]]></FromUserName>
+<CreateTime>1531472572</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>367090539092377603</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-07-13 17:02:52 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'createtime' => '1531472572',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '367090539092377603',
+    'status' => 'success',
+    'from' => 'oIP0X0oF5n7OLu49EpAwdouhzRkU',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1531472572',
+    'type' => 'event',
+  ),
+)
+
+2018-07-13 17:02:52 response :
+------------
+
+2018-07-13 21:44:54 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041121001004230552865950',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-11 21:44:09',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804111523454185',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-07-13 21:44:54',
+  'body' => '2',
+  'trade_status' => 'TRADE_FINISHED',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-11 21:44:10',
+  'seller_email' => 'jin703@outlook.com',
+  'gmt_close' => '2018-07-13 21:44:54',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '35a8054403bc625d05a262ea407152bhs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'b2ccbceb36e2e54c77b52530d410715f',
+  'query_type' => 'notify',
+)
+
+2018-07-13 21:48:18 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041121001004230552865950',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-11 21:44:09',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804111523454185',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-07-13 21:48:18',
+  'body' => '2',
+  'trade_status' => 'TRADE_FINISHED',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-11 21:44:10',
+  'seller_email' => 'jin703@outlook.com',
+  'gmt_close' => '2018-07-13 21:44:54',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '35a8054403bc625d05a262ea407152bhs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'ec106f731d8a816233bffb5d987dea1e',
+  'query_type' => 'notify',
+)
+
+2018-07-13 21:58:12 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041121001004230552865950',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-11 21:44:09',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804111523454185',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-07-13 21:58:12',
+  'body' => '2',
+  'trade_status' => 'TRADE_FINISHED',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-11 21:44:10',
+  'seller_email' => 'jin703@outlook.com',
+  'gmt_close' => '2018-07-13 21:44:54',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '35a8054403bc625d05a262ea407152bhs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'dc3ab91a170bbee3f18e3e41a8f999ec',
+  'query_type' => 'notify',
+)
+
+2018-07-13 22:08:08 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041121001004230552865950',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-11 21:44:09',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804111523454185',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-07-13 22:08:07',
+  'body' => '2',
+  'trade_status' => 'TRADE_FINISHED',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-11 21:44:10',
+  'seller_email' => 'jin703@outlook.com',
+  'gmt_close' => '2018-07-13 21:44:54',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '35a8054403bc625d05a262ea407152bhs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '32cedc7a49bc87f166438afca267d0ec',
+  'query_type' => 'notify',
+)
+
+2018-07-13 23:08:44 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041121001004230552865950',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-11 21:44:09',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804111523454185',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-07-13 23:08:44',
+  'body' => '2',
+  'trade_status' => 'TRADE_FINISHED',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-11 21:44:10',
+  'seller_email' => 'jin703@outlook.com',
+  'gmt_close' => '2018-07-13 21:44:54',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '35a8054403bc625d05a262ea407152bhs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'dc066c7686459a077b3b6e5a9fec4452',
+  'query_type' => 'notify',
+)
+

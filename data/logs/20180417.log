@@ -1,0 +1,138 @@
+2018-04-17 05:23:00 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041621001004230570755537',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-16 19:59:03',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804161523879920',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-04-17 05:23:00',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-16 19:59:04',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'cc2e7750f525eb5c51f3185867d44d6hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '472dd26dbd9ef6be6484441408f46433',
+  'query_type' => 'notify',
+)
+
+2018-04-17 11:08:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1523934499</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=2]]></EventKey>
+<MenuId>813863296</MenuId>
+</xml>
+
+2018-04-17 11:08:19 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1523934499',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=2',
+    'menuid' => '813863296',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1523934499',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=2',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-17 11:08:19 response :
+------------
+
+2018-04-17 11:37:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1523936237</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>813904688</MenuId>
+</xml>
+
+2018-04-17 11:37:17 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1523936237',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '813904688',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1523936237',
+    'type' => 'text',
+    'content' => 'http://orderamz.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-17 11:37:17 response :
+------------
+
+2018-04-17 20:23:32 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041621001004230570755537',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-16 19:59:03',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804161523879920',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-04-17 20:23:32',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-16 19:59:04',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => 'cc2e7750f525eb5c51f3185867d44d6hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'ad1d2ed86c3b08cce0faf20afacff062',
+  'query_type' => 'notify',
+)
+

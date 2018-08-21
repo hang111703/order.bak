@@ -1,0 +1,196 @@
+2018-03-09 14:40:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu08EltROQH8117BDMyaYBDCw]]></FromUserName>
+<CreateTime>1520577891</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5]]></EventKey>
+<MenuId>830669761</MenuId>
+</xml>
+
+2018-03-09 14:40:38 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu08EltROQH8117BDMyaYBDCw',
+    'createtime' => '1520577891',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5',
+    'menuid' => '830669761',
+    'from' => 'o01Wu08EltROQH8117BDMyaYBDCw',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1520577891',
+    'type' => 'text',
+    'content' => 'http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-03-09 14:40:38 response :
+------------
+
+2018-03-09 14:40:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu08EltROQH8117BDMyaYBDCw]]></FromUserName>
+<CreateTime>1520577889</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-09 14:40:46 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu08EltROQH8117BDMyaYBDCw',
+    'createtime' => '1520577889',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o01Wu08EltROQH8117BDMyaYBDCw',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1520577889',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+    'content' => '明达',
+  ),
+  'module' => 'reply',
+  'rule' => '22',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '64',
+    'rid' => '22',
+    'uniacid' => '2',
+    'module' => 'reply',
+    'content' => '明达',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+      0 => 'basic',
+      1 => 'news',
+    ),
+  ),
+  'reply_type' => 
+  array (
+    0 => 'basic',
+    1 => 'news',
+  ),
+)
+
+2018-03-09 14:40:46 response :
+------------
+Array:
+FromUserName : gh_7bcd94754b84 ;
+ToUserName : o01Wu08EltROQH8117BDMyaYBDCw ;
+MsgType : text ;
+Content : 欢迎来到明达订餐平台。 ;
+
+2018-03-09 14:41:28 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu08EltROQH8117BDMyaYBDCw]]></FromUserName>
+<CreateTime>1520577941</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=2]]></EventKey>
+<MenuId>830669761</MenuId>
+</xml>
+
+2018-03-09 14:41:28 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu08EltROQH8117BDMyaYBDCw',
+    'createtime' => '1520577941',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=2',
+    'menuid' => '830669761',
+    'from' => 'o01Wu08EltROQH8117BDMyaYBDCw',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1520577941',
+    'type' => 'text',
+    'content' => 'http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=2',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-03-09 14:41:28 response :
+------------
+
+2018-03-09 14:41:34 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu08EltROQH8117BDMyaYBDCw]]></FromUserName>
+<CreateTime>1520577947</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5]]></EventKey>
+<MenuId>830669761</MenuId>
+</xml>
+
+2018-03-09 14:41:34 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu08EltROQH8117BDMyaYBDCw',
+    'createtime' => '1520577947',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5',
+    'menuid' => '830669761',
+    'from' => 'o01Wu08EltROQH8117BDMyaYBDCw',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1520577947',
+    'type' => 'text',
+    'content' => 'http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-03-09 14:41:34 response :
+------------
+
+2018-03-09 14:42:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu08EltROQH8117BDMyaYBDCw]]></FromUserName>
+<CreateTime>1520577991</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

@@ -1,0 +1,254 @@
+2017-11-16 15:03:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510815830</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-16 15:03:50 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1510815830',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510815830',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-16 15:03:50 response :
+------------
+
+2017-11-16 16:06:48 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510819608</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=17]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-16 16:06:48 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1510819608',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=17',
+    'menuid' => '817056163',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510819608',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=17',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-16 16:06:48 response :
+------------
+
+2017-11-16 16:49:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510822195</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=17]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-16 16:49:56 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1510822195',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=17',
+    'menuid' => '817056163',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510822195',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=17',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-16 16:49:56 response :
+------------
+
+2017-11-16 17:18:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510823930</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-16 17:18:50 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1510823930',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510823930',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-16 17:18:50 response :
+------------
+
+2017-11-16 17:22:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu01-zSLzut3cB22KEbJ3JxzY]]></FromUserName>
+<CreateTime>1510824139</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15]]></EventKey>
+<MenuId>817056163</MenuId>
+</xml>
+
+2017-11-16 17:22:19 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'createtime' => '1510824139',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'menuid' => '817056163',
+    'from' => 'o01Wu01-zSLzut3cB22KEbJ3JxzY',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1510824139',
+    'type' => 'text',
+    'content' => 'http://we7.oneap.net/app/index.php?i=2&c=entry&eid=15',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-11-16 17:22:19 response :
+------------
+
+2017-11-16 17:24:41 SQL Error :
+------------
+String:
+SQL: <br/> SELECT * FROM `ims_mc_card` WHERE `uniacid` = :__uniacid_13  LIMIT 1<hr/>Params: <br/>array (
+  ':__uniacid_13' => 2,
+)<hr/>SQL Error: <br/>Table 'we7.ims_mc_card' doesn't exist<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/class/db.class.php; line: 195; <br />file: /framework/function/pdo.func.php; line: 54; <br />file: /app/source/mc/home.ctrl.php; line: 11; <br />file: /app/index.php; line: 114; <br />
+
+2017-11-16 17:24:49 SQL Error :
+------------
+String:
+SQL: <br/> SELECT * FROM `ims_mc_card` WHERE `uniacid` = :__uniacid_65 AND `status` = :__status_66  LIMIT 1<hr/>Params: <br/>array (
+  ':__uniacid_65' => 2,
+  ':__status_66' => '1',
+)<hr/>SQL Error: <br/>Table 'we7.ims_mc_card' doesn't exist<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/class/db.class.php; line: 195; <br />file: /framework/function/pdo.func.php; line: 54; <br />file: /framework/model/card.mod.php; line: 91; <br />file: /framework/builtin/recharge/site.php; line: 16; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 114; <br />
+
+2017-11-16 17:25:01 SQL Error :
+------------
+String:
+SQL: <br/> SELECT * FROM `ims_mc_card` WHERE `uniacid` = :__uniacid_65 AND `status` = :__status_66  LIMIT 1<hr/>Params: <br/>array (
+  ':__uniacid_65' => 2,
+  ':__status_66' => '1',
+)<hr/>SQL Error: <br/>Table 'we7.ims_mc_card' doesn't exist<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/class/db.class.php; line: 195; <br />file: /framework/function/pdo.func.php; line: 54; <br />file: /framework/model/card.mod.php; line: 91; <br />file: /framework/builtin/recharge/site.php; line: 16; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 114; <br />
+
+2017-11-16 17:25:19 SQL Error :
+------------
+String:
+SQL: <br/> SELECT * FROM `ims_mc_card` WHERE `uniacid` = :__uniacid_65 AND `status` = :__status_66  LIMIT 1<hr/>Params: <br/>array (
+  ':__uniacid_65' => 2,
+  ':__status_66' => '1',
+)<hr/>SQL Error: <br/>Table 'we7.ims_mc_card' doesn't exist<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/class/db.class.php; line: 195; <br />file: /framework/function/pdo.func.php; line: 54; <br />file: /framework/model/card.mod.php; line: 91; <br />file: /framework/builtin/recharge/site.php; line: 16; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 114; <br />
+
+2017-11-16 17:25:45 SQL Error :
+------------
+String:
+SQL: <br/> SELECT * FROM `ims_mc_card` WHERE `uniacid` = :__uniacid_65 AND `status` = :__status_66  LIMIT 1<hr/>Params: <br/>array (
+  ':__uniacid_65' => 2,
+  ':__status_66' => '1',
+)<hr/>SQL Error: <br/>Table 'we7.ims_mc_card' doesn't exist<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/class/db.class.php; line: 195; <br />file: /framework/function/pdo.func.php; line: 54; <br />file: /framework/model/card.mod.php; line: 91; <br />file: /framework/builtin/recharge/site.php; line: 16; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 114; <br />
+
+2017-11-16 17:26:05 SQL Error :
+------------
+String:
+SQL: <br/> SELECT * FROM `ims_mc_card` WHERE `uniacid` = :__uniacid_65 AND `status` = :__status_66  LIMIT 1<hr/>Params: <br/>array (
+  ':__uniacid_65' => 2,
+  ':__status_66' => '1',
+)<hr/>SQL Error: <br/>Table 'we7.ims_mc_card' doesn't exist<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/class/db.class.php; line: 195; <br />file: /framework/function/pdo.func.php; line: 54; <br />file: /framework/model/card.mod.php; line: 91; <br />file: /framework/builtin/recharge/site.php; line: 16; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 114; <br />
+
+2017-11-16 17:26:08 SQL Error :
+------------
+String:
+SQL: <br/> SELECT * FROM `ims_mc_card` WHERE `uniacid` = :__uniacid_13  LIMIT 1<hr/>Params: <br/>array (
+  ':__uniacid_13' => 2,
+)<hr/>SQL Error: <br/>Table 'we7.ims_mc_card' doesn't exist<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/class/db.class.php; line: 195; <br />file: /framework/function/pdo.func.php; line: 54; <br />file: /app/source/mc/home.ctrl.php; line: 11; <br />file: /app/index.php; line: 114; <br />
+

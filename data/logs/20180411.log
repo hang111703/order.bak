@@ -1,0 +1,167 @@
+2018-04-11 21:44:11 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041121001004230552865950',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-11 21:44:09',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804111523454185',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-04-11 21:44:11',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-11 21:44:10',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '0dcfdd5f2e06a6185bb5f98dba0c5cahs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'dba91621ada9382b45da2013c8dfa696',
+  'query_type' => 'notify',
+)
+
+2018-04-11 21:44:19 pay-alipay :
+------------
+String:
+array (
+  'body' => '2',
+  'is_success' => 'T',
+  'notify_id' => 'RqPnCoPT3K9%2Fvwbh3Ih0GLLgp171e%2FUly9tC%2BHuQE0JVH4llDDHOvSBAWjB4YyxhNQs2',
+  'notify_time' => '2018-04-11 21:44:11',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '201804111523454185',
+  'payment_type' => '1',
+  'seller_id' => '2088621957819369',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'subject' => '测试支付接口',
+  'total_fee' => '0.01',
+  'trade_no' => '2018041121001004230552865950',
+  'trade_status' => 'TRADE_SUCCESS',
+  'sign' => '156f8d7e40ae727895470fb7d681ee6b',
+  'sign_type' => 'MD5',
+  'query_type' => 'return',
+)
+
+2018-04-11 21:48:29 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041121001004230552865950',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-11 21:44:09',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804111523454185',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-04-11 21:48:29',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-11 21:44:10',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '0dcfdd5f2e06a6185bb5f98dba0c5cahs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'df827fa999a7b748de9e324749d39504',
+  'query_type' => 'notify',
+)
+
+2018-04-11 21:58:07 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041121001004230552865950',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-11 21:44:09',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804111523454185',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-04-11 21:58:07',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-11 21:44:10',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '0dcfdd5f2e06a6185bb5f98dba0c5cahs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '4a8f222c21414618cfc27368aebccac5',
+  'query_type' => 'notify',
+)
+
+2018-04-11 22:08:29 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041121001004230552865950',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-11 21:44:09',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804111523454185',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-04-11 22:08:29',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-11 21:44:10',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '0dcfdd5f2e06a6185bb5f98dba0c5cahs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'a7fcd921af08a662b07599795fee4256',
+  'query_type' => 'notify',
+)
+
+2018-04-11 23:08:18 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018041121001004230552865950',
+  'subject' => '测试支付接口',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-04-11 21:44:09',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '201804111523454185',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-04-11 23:08:18',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2018-04-11 21:44:10',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '0.01',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '0dcfdd5f2e06a6185bb5f98dba0c5cahs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '922ec32de6e84e1ec6c8b78d32ff1bb0',
+  'query_type' => 'notify',
+)
+

@@ -1,0 +1,157 @@
+2018-03-12 11:52:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu04fZ1mkR_Ym2ot5T2Hs6Gmc]]></FromUserName>
+<CreateTime>1520826982</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-12 11:52:02 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu04fZ1mkR_Ym2ot5T2Hs6Gmc',
+    'createtime' => '1520826982',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o01Wu04fZ1mkR_Ym2ot5T2Hs6Gmc',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1520826982',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+    'content' => '明达',
+  ),
+  'module' => 'reply',
+  'rule' => '22',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '64',
+    'rid' => '22',
+    'uniacid' => '2',
+    'module' => 'reply',
+    'content' => '明达',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+      0 => 'basic',
+      1 => 'news',
+    ),
+  ),
+  'reply_type' => 
+  array (
+    0 => 'basic',
+    1 => 'news',
+  ),
+)
+
+2018-03-12 11:52:02 response :
+------------
+Array:
+FromUserName : gh_7bcd94754b84 ;
+ToUserName : o01Wu04fZ1mkR_Ym2ot5T2Hs6Gmc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-03-12 11:52:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu04fZ1mkR_Ym2ot5T2Hs6Gmc]]></FromUserName>
+<CreateTime>1520826986</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=2]]></EventKey>
+<MenuId>830669761</MenuId>
+</xml>
+
+2018-03-12 11:52:05 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu04fZ1mkR_Ym2ot5T2Hs6Gmc',
+    'createtime' => '1520826986',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=2',
+    'menuid' => '830669761',
+    'from' => 'o01Wu04fZ1mkR_Ym2ot5T2Hs6Gmc',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1520826986',
+    'type' => 'text',
+    'content' => 'http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=2',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-03-12 11:52:05 response :
+------------
+
+2018-03-12 11:52:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu04fZ1mkR_Ym2ot5T2Hs6Gmc]]></FromUserName>
+<CreateTime>1520826988</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5]]></EventKey>
+<MenuId>830669761</MenuId>
+</xml>
+
+2018-03-12 11:52:07 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7bcd94754b84',
+    'fromusername' => 'o01Wu04fZ1mkR_Ym2ot5T2Hs6Gmc',
+    'createtime' => '1520826988',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5',
+    'menuid' => '830669761',
+    'from' => 'o01Wu04fZ1mkR_Ym2ot5T2Hs6Gmc',
+    'to' => 'gh_7bcd94754b84',
+    'time' => '1520826988',
+    'type' => 'text',
+    'content' => 'http://ordernow.oneap.net/app/index.php?i=2&c=entry&eid=5',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-03-12 11:52:07 response :
+------------
+
+2018-03-12 13:02:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7bcd94754b84]]></ToUserName>
+<FromUserName><![CDATA[o01Wu04fZ1mkR_Ym2ot5T2Hs6Gmc]]></FromUserName>
+<CreateTime>1520831185</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

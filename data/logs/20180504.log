@@ -1,0 +1,364 @@
+2018-05-04 20:42:17 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050421001004230537879610',
+  'subject' => '餐饮20180504375948047431',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-04 20:42:15',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050420395900001208677680',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-05-04 20:42:17',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '1.00',
+  'gmt_payment' => '2018-05-04 20:42:17',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '1.00',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '37d7c2a08a83d50c4c0b7d055aa78a2hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '657f87e5063c89001dfedc816fc93fbe',
+  'query_type' => 'notify',
+)
+
+2018-05-04 20:42:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1525437739</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>265842841639567361</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-05-04 20:42:19 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1525437739',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '265842841639567361',
+    'status' => 'success',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1525437739',
+    'type' => 'event',
+  ),
+)
+
+2018-05-04 20:42:19 response :
+------------
+
+2018-05-04 20:46:20 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050421001004230537879610',
+  'subject' => '餐饮20180504375948047431',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-04 20:42:15',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050420395900001208677680',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-05-04 20:46:20',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '1.00',
+  'gmt_payment' => '2018-05-04 20:42:17',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '1.00',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '37d7c2a08a83d50c4c0b7d055aa78a2hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '821f3cb1f831b9a75ad768f5d7c75a09',
+  'query_type' => 'notify',
+)
+
+2018-05-04 20:56:25 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050421001004230537879610',
+  'subject' => '餐饮20180504375948047431',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-04 20:42:15',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050420395900001208677680',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-05-04 20:56:24',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '1.00',
+  'gmt_payment' => '2018-05-04 20:42:17',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '1.00',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '37d7c2a08a83d50c4c0b7d055aa78a2hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '980526967baf9e9ff650740551d0a60f',
+  'query_type' => 'notify',
+)
+
+2018-05-04 21:06:26 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050421001004230537879610',
+  'subject' => '餐饮20180504375948047431',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-04 20:42:15',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050420395900001208677680',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-05-04 21:06:26',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '1.00',
+  'gmt_payment' => '2018-05-04 20:42:17',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '1.00',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '37d7c2a08a83d50c4c0b7d055aa78a2hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '19b55a278ae09b6c73d6e9eac1fa0b3d',
+  'query_type' => 'notify',
+)
+
+2018-05-04 22:06:00 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050421001004230537879610',
+  'subject' => '餐饮20180504375948047431',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-04 20:42:15',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050420395900001208677680',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-05-04 22:06:00',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '1.00',
+  'gmt_payment' => '2018-05-04 20:42:17',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '1.00',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '37d7c2a08a83d50c4c0b7d055aa78a2hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '3a87aada9bcdbafff1ab08aa0e5ab54c',
+  'query_type' => 'notify',
+)
+
+2018-05-04 22:27:10 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050421001004230538313028',
+  'subject' => '餐饮20180504439918315194',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-04 22:27:08',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050422263700001203419762',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-05-04 22:27:10',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '2.00',
+  'gmt_payment' => '2018-05-04 22:27:09',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '2.00',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '96146b0618d0ca3fc3f0e0cfef1d4a3hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => 'd0f46c942383dad7b7baaa07c0d43f80',
+  'query_type' => 'notify',
+)
+
+2018-05-04 22:27:11 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_6ace08fd00cf]]></ToUserName>
+<FromUserName><![CDATA[oIP0X0nRmf4w6LhtWw_cwGj7NlyA]]></FromUserName>
+<CreateTime>1525444031</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>265948408412487683</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2018-05-04 22:27:11 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_6ace08fd00cf',
+    'fromusername' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'createtime' => '1525444031',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '265948408412487683',
+    'status' => 'success',
+    'from' => 'oIP0X0nRmf4w6LhtWw_cwGj7NlyA',
+    'to' => 'gh_6ace08fd00cf',
+    'time' => '1525444031',
+    'type' => 'event',
+  ),
+)
+
+2018-05-04 22:27:11 response :
+------------
+
+2018-05-04 22:31:41 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050421001004230538313028',
+  'subject' => '餐饮20180504439918315194',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-04 22:27:08',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050422263700001203419762',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-05-04 22:31:41',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '2.00',
+  'gmt_payment' => '2018-05-04 22:27:09',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '2.00',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '96146b0618d0ca3fc3f0e0cfef1d4a3hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '6d6ae4ddf24fd5e0f0a7562bfd703bde',
+  'query_type' => 'notify',
+)
+
+2018-05-04 22:41:40 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050421001004230538313028',
+  'subject' => '餐饮20180504439918315194',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-04 22:27:08',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050422263700001203419762',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-05-04 22:41:39',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '2.00',
+  'gmt_payment' => '2018-05-04 22:27:09',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '2.00',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '96146b0618d0ca3fc3f0e0cfef1d4a3hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '75b43fbb56be48718cbf620c37dd2e4e',
+  'query_type' => 'notify',
+)
+
+2018-05-04 22:51:35 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050421001004230538313028',
+  'subject' => '餐饮20180504439918315194',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-04 22:27:08',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050422263700001203419762',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-05-04 22:51:34',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '2.00',
+  'gmt_payment' => '2018-05-04 22:27:09',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '2.00',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '96146b0618d0ca3fc3f0e0cfef1d4a3hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '0c38cf2cce80357b7b9cd1554414abe3',
+  'query_type' => 'notify',
+)
+
+2018-05-04 23:51:47 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018050421001004230538313028',
+  'subject' => '餐饮20180504439918315194',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-05-04 22:27:08',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018050422263700001203419762',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-05-04 23:51:46',
+  'body' => '2',
+  'trade_status' => 'TRADE_SUCCESS',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '2.00',
+  'gmt_payment' => '2018-05-04 22:27:09',
+  'seller_email' => 'jin703@outlook.com',
+  'price' => '2.00',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '96146b0618d0ca3fc3f0e0cfef1d4a3hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '94878d1c559e6d70ca213bbfffd12dd2',
+  'query_type' => 'notify',
+)
+

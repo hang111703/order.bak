@@ -1,0 +1,30 @@
+2018-04-09 10:34:37 pay-alipay :
+------------
+String:
+array (
+  'payment_type' => '1',
+  'trade_no' => '2018010521001004230570970338',
+  'subject' => '餐饮20180105184347699492',
+  'buyer_email' => 'han***@msn.com',
+  'gmt_create' => '2018-01-05 10:15:58',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '2018010510135900001243556448',
+  'seller_id' => '2088621957819369',
+  'notify_time' => '2018-04-09 10:40:17',
+  'body' => '2',
+  'trade_status' => 'TRADE_FINISHED',
+  'is_total_fee_adjust' => 'N',
+  'total_fee' => '0.48',
+  'gmt_payment' => '2018-01-05 10:16:00',
+  'seller_email' => 'jin703@outlook.com',
+  'gmt_close' => '2018-04-08 10:16:53',
+  'price' => '0.48',
+  'buyer_id' => '2088002328471230',
+  'notify_id' => '15cbd070ecfd52a998d62a46ba1e818hs1',
+  'use_coupon' => 'N',
+  'sign_type' => 'MD5',
+  'sign' => '3bd52e3d55c4e3ea6cadd4615968c71e',
+  'query_type' => 'notify',
+)
+

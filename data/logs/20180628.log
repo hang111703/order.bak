@@ -1,0 +1,30 @@
+2018-06-28 11:29:19 SQL Error :
+------------
+String:
+SQL: <br/>UPDATE `ims_weisrc_dish_goods` SET `today_count` = :today_count_66 , `sales` = :sales_67 WHERE `weid` = :__weid_68 AND `id` = :__id_69<hr/>Params: <br/>array (
+  ':today_count_66' => 1,
+  ':sales_67' => 0,
+  ':__weid_68' => 2,
+  ':__id_69' => 158,
+)<hr/>SQL Error: <br/>Unknown column 'today_count' in 'field list'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 95; <br />file: /framework/class/db.class.php; line: 247; <br />file: /framework/function/pdo.func.php; line: 81; <br />file: /addons/weisrc_dish/site.php; line: 5972; <br />file: /web/source/site/entry.ctrl.php; line: 89; <br />file: /web/index.php; line: 80; <br />
+
+2018-06-28 11:39:10 SQL Error :
+------------
+String:
+SQL: <br/>UPDATE `ims_weisrc_dish_goods` SET `today_count` = :today_count_66 , `sales` = :sales_67 WHERE `weid` = :__weid_68 AND `id` = :__id_69<hr/>Params: <br/>array (
+  ':today_count_66' => 1,
+  ':sales_67' => 0,
+  ':__weid_68' => 2,
+  ':__id_69' => 158,
+)<hr/>SQL Error: <br/>Unknown column 'today_count' in 'field list'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 95; <br />file: /framework/class/db.class.php; line: 247; <br />file: /framework/function/pdo.func.php; line: 81; <br />file: /addons/weisrc_dish/site.php; line: 5975; <br />file: /web/source/site/entry.ctrl.php; line: 89; <br />file: /web/index.php; line: 80; <br />
+
+2018-06-28 11:40:49 SQL Error :
+------------
+String:
+SQL: <br/>UPDATE `ims_weisrc_dish_goods` SET `today_count` = :today_count_66 , `sales` = :sales_67 WHERE `weid` = :__weid_68 AND `id` = :__id_69<hr/>Params: <br/>array (
+  ':today_count_66' => 1,
+  ':sales_67' => 0,
+  ':__weid_68' => 2,
+  ':__id_69' => 158,
+)<hr/>SQL Error: <br/>Unknown column 'today_count' in 'field list'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 408; <br />file: /framework/class/db.class.php; line: 95; <br />file: /framework/class/db.class.php; line: 247; <br />file: /framework/function/pdo.func.php; line: 81; <br />file: /addons/weisrc_dish/site.php; line: 5975; <br />file: /web/source/site/entry.ctrl.php; line: 89; <br />file: /web/index.php; line: 80; <br />
+
