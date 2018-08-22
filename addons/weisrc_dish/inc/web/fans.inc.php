@@ -100,7 +100,7 @@ from_user=:from_user AND storeid=:storeid ", array(':weid' => $weid, ':from_user
     message('操作成功！', $this->createWebUrl('fans', array('op' => 'display', 'storeid' => $storeid)), 'success');
 }
 
-//var_dump($list) ;
+//var_dump($list) ; this is test
 //exit();
 
 include $this->template('web/fans');
